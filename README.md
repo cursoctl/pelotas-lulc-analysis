@@ -28,7 +28,7 @@ Através do processamento dos dados raster com `rasterio` e `pandas`, foi gerada
 
 Elaboração de mapa temático comparativo utilizando o Layout de Impressão do QGIS, com padronização da legenda oficial MapBiomas e enquadramento em **SIRGAS 2000 / UTM zone 22S (EPSG:31982)**.
 
-![Mapa Comparativo](dados_processados/mapa_lulc_pelotas_final.png)
+![Mapa Comparativo](dados_processados/Mapa_LULC_Pelotas.png)
 
 ---
 
